@@ -1,2 +1,47 @@
-
 /* Your CSS Code here. */
+body{
+	font-family:Arial,sans-serif;
+	background-color:#f9f9f9;
+	margin:0;
+	padding:0;
+	color:#333;
+}
+nav ul{
+list-style-type:none:
+	padding:0;
+	display:flex:
+	justify-content:center:
+}
+nav li{
+	color:white:
+	text-decoration:none:
+	font-weight:bold:
+}
+	header{
+		text-align:center;
+		margin-top:20px;
+	}
+	img{
+		border-radius:50%;
+		width:200px;
+		height:200px;
+	}
+	ul{
+		list-style:none;
+	}
+	ul li{
+		background-color:#e6e6e6;
+		margin:8px auto;
+		width:200px;
+		border-radius:8px;
+	}
+
+
+
+
+
+
+
+
+
+	
